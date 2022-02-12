@@ -1,4 +1,4 @@
-##https://leetcode.com/problems/two-sum/discuss/1754104/Not-the-most-efficient-but-very-easy-to-understand-in-Java
+##https://leetcode.com/problems/two-sum/submissions/
 
 def twoSum(nums, target):  # -> List[int]:
         number_order1 = -1
